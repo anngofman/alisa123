@@ -1,0 +1,17 @@
+.wrapper{
+    min-width: 320px;
+    max-width: 1510px;
+    margin: 0 auto;
+}
+.awesome{
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.cards{
+    display: flex;
+}
+
+h2, p, .cards{
+text-align: center;
+}
